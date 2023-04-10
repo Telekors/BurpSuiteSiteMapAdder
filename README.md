@@ -1,6 +1,6 @@
 # BurpSuiteSiteMapAdder
 
-The following is a simple python script to take an input list of websites and generate the site map in burpsutie quickly and efficently. 
+The following is a simple python script to take an input list of websites and generate the site map in Burpsuite quickly and efficently. 
 
 ## Install
 `pip install -r requirements.txt`
